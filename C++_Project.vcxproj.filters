@@ -63,9 +63,24 @@
     <ClCompile Include="4-2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4-4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4-7.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Counter.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Counter1.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Counter2.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterM.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
