@@ -30,6 +30,7 @@ public:
 	bool operator==(const Complex2& c) const {
 		return (rPart == c.rPart && iPart == c.iPart);
 	}
+	friend ostream& operator<<(ostream& os, const Complex2& c);
 };
 
 Complex2 operator+(double r, const Complex2& c) {
