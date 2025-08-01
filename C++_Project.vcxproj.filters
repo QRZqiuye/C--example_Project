@@ -108,6 +108,9 @@
     <ClCompile Include="5-14.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5-22.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Counter.h">
@@ -141,6 +144,9 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="Complex2.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeIntArray.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
