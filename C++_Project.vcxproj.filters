@@ -132,6 +132,9 @@
     <ClCompile Include="6-7.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6-11.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Counter.h">
@@ -189,6 +192,12 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="Student2.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Person3.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Student3.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
