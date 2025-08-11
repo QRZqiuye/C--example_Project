@@ -11,7 +11,7 @@ private:
 public:
 	Person(const string& n) : name(n) {}
 	string getName()const { return name; }
-	void print() const { cout << name; }
+	virtual void print() const { cout << name; }
 };
 
 #endif

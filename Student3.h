@@ -17,7 +17,8 @@ public:
 		return school;
 	}
 
-	void print() const {
+	void print() const override 
+	{
 		Person::print();
 		cout << " goes to " << school;
 	}
