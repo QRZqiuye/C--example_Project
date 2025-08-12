@@ -200,5 +200,8 @@
     <ClInclude Include="Student3.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
+    <ClInclude Include="GrAttrib.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
