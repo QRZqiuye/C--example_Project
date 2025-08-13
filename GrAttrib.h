@@ -29,4 +29,6 @@ public:
 	}
 };
 
+extern GrAttrib curAttrib;
+
 #endif
