@@ -135,6 +135,9 @@
     <ClCompile Include="6-11.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Counter.h">
@@ -204,6 +207,9 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="Figure.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
