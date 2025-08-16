@@ -13,3 +13,5 @@ public:
 	void scale(double s) override;
 	void draw() const override;
 };
+
+#endif
