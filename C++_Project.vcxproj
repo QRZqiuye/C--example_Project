@@ -219,6 +219,7 @@
     <ClCompile Include="6-21.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="6-25.cpp" />
     <ClCompile Include="6-3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -290,6 +291,9 @@
     <ClInclude Include="Meter.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
+    <ClInclude Include="MIEmployee.h" />
+    <ClInclude Include="MIParttime.h" />
+    <ClInclude Include="MIStudent.h" />
     <ClInclude Include="MyString.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
