@@ -147,6 +147,9 @@
     <ClCompile Include="6-25.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CBMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Counter.h">
@@ -231,6 +234,18 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="MIParttime.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CBPerson.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CBStudent.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CBEmployee.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CBParttime.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
