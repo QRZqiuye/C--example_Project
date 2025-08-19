@@ -150,6 +150,9 @@
     <ClCompile Include="CBMain.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="VBMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Counter.h">
@@ -246,6 +249,18 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="CBParttime.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="VBPerson.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="VBStudent.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="VBEmployee.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="VBParttime.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
