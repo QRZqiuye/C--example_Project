@@ -13,138 +13,33 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Lesson1_6">
+      <UniqueIdentifier>{0df56c85-085b-4a3d-9217-4aa3986285fb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2-1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2-9.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2-10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2-11.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2-12.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2-13.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-8.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-9.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3-10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4-2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4-4.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4-7.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Person.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4-10.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4-12.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4-14.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="NamedObj.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4-18.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="CharStack.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4-21.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Complex.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4-24.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Pencils.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="5-5.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5-14.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5-22.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5-23.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="MyString.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5-27.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="5-31.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6-3.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6-6.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6-7.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6-11.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Circle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Triangle.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6-21.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="6-25.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="CBMain.cpp">
@@ -154,6 +49,117 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="StackTMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="1-2.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="2-1.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="2-9.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="2-10.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="2-11.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="2-12.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="2-13.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="3-8.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="3-9.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="3-10.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-4.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-7.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-10.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-12.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-14.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-18.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-21.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="4-24.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="5-5.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="5-14.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="5-22.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="5-23.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="5-27.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="5-31.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-6.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-7.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-11.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-21.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="6-25.cpp">
+      <Filter>소스 파일\Lesson1_6</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -267,6 +273,9 @@
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="StackT.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SwapFT.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
