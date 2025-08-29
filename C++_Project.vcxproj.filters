@@ -16,41 +16,11 @@
     <Filter Include="소스 파일\Lesson1_6">
       <UniqueIdentifier>{0df56c85-085b-4a3d-9217-4aa3986285fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Lesson7_9">
+      <UniqueIdentifier>{efcc9cae-cdd2-4f9b-bad5-3440c0a0aaac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Person.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="NamedObj.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CharStack.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Complex.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Pencils.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="MyString.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Circle.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Triangle.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CBMain.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="VBMain.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="StackTMain.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1-1.cpp">
       <Filter>소스 파일\Lesson1_6</Filter>
     </ClCompile>
@@ -160,143 +130,185 @@
       <Filter>소스 파일\Lesson1_6</Filter>
     </ClCompile>
     <ClCompile Include="7-6.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClCompile>
     <ClCompile Include="7-8.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClCompile>
     <ClCompile Include="7-9.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClCompile>
     <ClCompile Include="7-10.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClCompile>
     <ClCompile Include="7-11.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClCompile>
     <ClCompile Include="7-13.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClCompile>
     <ClCompile Include="8-3.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="CBMain.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="CharStack.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="Complex.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="MyString.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="NamedObj.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="Pencils.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="StackTMain.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="VBMain.cpp">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClCompile>
+    <ClCompile Include="IntArray1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8-10.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Counter.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Counter1.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Counter2.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="CounterM.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Person.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="VecF.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="NamedObj.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="CharStack.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Complex.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Pencils.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Complex2.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="SafeIntArray.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="MyString.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Meter.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Feet.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Person1.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Student1.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Person2.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Student2.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Person3.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Student3.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="GrAttrib.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Figure.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Circle.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Triangle.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="MIStudent.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="MIEmployee.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="MIParttime.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="CBPerson.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="CBStudent.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
     <ClInclude Include="CBEmployee.h">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
     <ClInclude Include="CBParttime.h">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
-    <ClInclude Include="VBPerson.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="CBPerson.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
-    <ClInclude Include="VBStudent.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="CBStudent.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
-    <ClInclude Include="VBEmployee.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="CharStack.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
-    <ClInclude Include="VBParttime.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="Circle.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
-    <ClInclude Include="StackT.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="Complex.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
-    <ClInclude Include="SwapFT.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="Complex2.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Counter.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Counter1.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Counter2.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="CounterM.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Feet.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="GrAttrib.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Meter.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="MIEmployee.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="MIParttime.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="MIStudent.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="MyString.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="NamedObj.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Pencils.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Person.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Person1.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Person2.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Person3.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeIntArray.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
     </ClInclude>
     <ClInclude Include="SortFT.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="StackT.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Student1.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Student2.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Student3.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="SwapFT.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="VBEmployee.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="VBParttime.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="VBPerson.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="VBStudent.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="VecF.h">
+      <Filter>소스 파일\Lesson7_9</Filter>
+    </ClInclude>
+    <ClInclude Include="IntArray1.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
