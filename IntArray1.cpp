@@ -34,7 +34,7 @@ Array::~Array()
 int& Array::operator[](int offset)
 {
     if (offset < 0 || offset >= size) {
-        throw BadIndex();
+        throw BadIndex(offset);
     }
     return buf[offset];
 }
@@ -42,7 +42,7 @@ int& Array::operator[](int offset)
 const int& Array::operator[](int offset) const
 {
     if (offset < 0 || offset >= size) {
-        throw BadIndex();
+        throw BadIndex(offset);
     }
     return buf[offset];
 }
